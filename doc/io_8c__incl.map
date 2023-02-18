@@ -1,0 +1,5 @@
+<map id="src/io.c" name="src/io.c">
+<area shape="rect" id="node2" href="$io_8h.html" title="Fonction d&#39;affichage et manipulations des grilles. " alt="" coords="65,80,108,107"/>
+<area shape="rect" id="node4" href="$grille_8h.html" title="Fonctions qui concerne tous les operations pour gerer les grilles. " alt="" coords="93,229,153,256"/>
+<area shape="rect" id="node7" href="$jeu_8h.html" title="Fonction pour les regles du jeu, header pour &#39;jeu.c&#39;. " alt="" coords="124,155,175,181"/>
+</map>

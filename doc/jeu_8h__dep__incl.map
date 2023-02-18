@@ -1,0 +1,9 @@
+<map id="include/jeu.h" name="include/jeu.h">
+<area shape="rect" id="node2" href="$graph_8h.html" title="Fichiers header pour l&#39;affichage graphique des grilles. " alt="" coords="44,80,155,107"/>
+<area shape="rect" id="node4" href="$maing_8c.html" title="Programme de tests sur &#39;Jeu de la vie&#39; en mode graphique. " alt="" coords="117,155,207,181"/>
+<area shape="rect" id="node5" href="$io_8h.html" title="Fonction d&#39;affichage et manipulations des grilles. " alt="" coords="230,80,318,107"/>
+<area shape="rect" id="node7" href="$maint_8c.html" title="Programme de tests sur &#39;Jeu de la vie&#39; en mode texte. " alt="" coords="321,155,408,181"/>
+<area shape="rect" id="node8" href="$jeu_8c.html" title="Fichier .c pour les fonctions du jeu. " alt="" coords="393,80,465,107"/>
+<area shape="rect" id="node3" href="$graph_8c.html" title="Fichier .c pour l&#39;affichage graphique. " alt="" coords="5,155,92,181"/>
+<area shape="rect" id="node6" href="$io_8c.html" title="Fichier .c pour l&#39;interface utilisateur. " alt="" coords="232,155,297,181"/>
+</map>

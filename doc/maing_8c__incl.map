@@ -1,0 +1,5 @@
+<map id="src/maing.c" name="src/maing.c">
+<area shape="rect" id="node3" href="$grille_8h.html" title="Fonctions qui concerne tous les operations pour gerer les grilles. " alt="" coords="638,229,698,256"/>
+<area shape="rect" id="node6" href="$jeu_8h.html" title="Fonction pour les regles du jeu, header pour &#39;jeu.c&#39;. " alt="" coords="679,155,729,181"/>
+<area shape="rect" id="node7" href="$graph_8h.html" title="Fichiers header pour l&#39;affichage graphique des grilles. " alt="" coords="467,80,533,107"/>
+</map>
